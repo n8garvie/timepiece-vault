@@ -1,4 +1,12 @@
-# TimePiece Vault - Environment Configuration
+# TimePiece Vault
+
+![App Screenshot](./screenshot.png)
+
+Premium watch collection tracker with market valuation and service reminders.
+
+**Live Demo**: https://final-np5hus8ju-n8garvies-projects.vercel.app
+
+## Environment Configuration
 
 ## Required Environment Variables
 

@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/home/n8garvie/.openclaw/workspace/mission-control/builds/k17e6fvakrrgv5hvvad0bw6gh184wzqn/integrator/final/app/layout":["static/media/e4af272ccee01ff0-s.p.woff2","static/media/eaead17c7dbfcd5d-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';

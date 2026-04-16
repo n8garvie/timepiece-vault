@@ -1,13 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',
+  distDir: 'dist',
   images: {
-    domains: ['localhost'],
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: '**.convex.cloud',
-      },
-    ],
+    unoptimized: true,
   },
 }
 
